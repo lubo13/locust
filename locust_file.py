@@ -1,5 +1,5 @@
 from locust import HttpLocust, Locust, TaskSet, task
-from links import *
+from links.links import *
 import random
 
 class UserBehavior(TaskSet):
