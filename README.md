@@ -26,6 +26,5 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Who do I talk to? ###
 
-* Bitbucket Repository -> https://bitbucket.org/Lubo13/docker
-* Docker Hub -> 
+* Bitbucket Repository -> https://bitbucket.org/Lubo13/locust
 * Email -> grozdanov.lubo@gmail.com
